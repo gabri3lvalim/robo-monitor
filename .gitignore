@@ -1,0 +1,7 @@
+venv/
+dist/
+*.exe
+*.spec
+__pycache__/
+*.xlsx
+msedgedriver.exe
